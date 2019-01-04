@@ -1,0 +1,18 @@
+.pulic-header {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: aquamarine;
+}
+
+.public-footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  background-color: deeppink;
+}
+
+.public-login {
+  color: red;
+  font-weight: bold;
+}
